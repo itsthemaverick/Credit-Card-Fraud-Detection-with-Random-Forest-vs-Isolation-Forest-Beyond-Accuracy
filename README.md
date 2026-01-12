@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-with-Random-Forest-vs-Isolation-Forest-Beyond-Accuracy
+This project focuses on detecting fraudulent credit card transactions using two fundamentally different machine learning paradigms: Random Forest and Isolation Forest .The goal is not just high accuracy, but understanding why certain metrics can be misleading in highly imbalanced, real-world fraud datasets and how to evaluate models responsibly.
